@@ -2,8 +2,8 @@
 Play badapple video on oled12864 with esp8266
 
 ## Hardware
-Wemos D1 mini board
-128x64 oled screen with ssd1306 
+   Wemos D1 mini board    
+   128x64 oled screen with ssd1306 
 
 ## Environment
 My work environment : 
